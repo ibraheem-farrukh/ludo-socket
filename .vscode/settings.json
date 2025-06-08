@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "types.h": "c",
+        "inet.h": "c",
+        "iostream": "cpp",
+        "cstddef": "cpp"
+    }
+}
